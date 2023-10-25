@@ -1,0 +1,57 @@
+Class e objeto => está claro pra mim ??
+algoritmo está claro ?
+
+https://dgadelha.github.io/Portugol-Webstudio/
+
+codificação de música
+https://sonic-pi.net/
+
+
+na Class this é o objeto
+
+Comentario dozamigo:
+let tarara = new ChapeuDoPatinho;
+Depois do ponto é a "chave".
+Ilnara Ackermann19:29
+Leia this como o próprio obj
+Ao invés de patinho.cor fica this.cor
+Ícaro Santos19:31
+Existe o Factory enquanto abordagem também, que você usa uma função para criar um objeto.
+O this é algo "relativo", mas de maneira geral, ele se refere ao contexto em que se encontra.
+Inclusive o this é uma dor de cabeça as vezes, porque dependendo de onde é chamado, ele "muda".
+Ilnara Ackermann19:32
+Sim por conta do contexto
+Pois ele assume um valor dependendo do contexto
+Ícaro Santos19:32
+Exatamente, Ilnara.
+Ilnara Ackermann19:33
+No caso do contexto de obj ele e uma referencia  ao próprio obj
+Ícaro Santos19:33
+Sim.
+Ilnara Ackermann19:34
+Se abrir o console no navegador sem nada o this é o próprio navegador
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_class_fields
+
+https://theburningmonk.com/2017/09/capture-and-forward-correlation-ids-through-different-lambda-event-sources/
+
+https://dev.to/victorbueno/diferencas-entre-monolito-e-microsservicos-1n2g#:~:text=O%20que%20%C3%A9%20um%20Microsservi%C3%A7o,si%20formando%20o%20produto%20final
+
+procurar
+microsservico - monolito
+
+https://dev.to/victorbueno/diferencas-entre-monolito-e-microsservicos-1n2g#:~:text=O%20que%20%C3%A9%20um%20Microsservi%C3%A7o,si%20formando%20o%20produto%20final
+
+microfrontend
+https://medium.com/localizalabs/module-federation-o-futuro-do-microfrontend-4fed87983ec2
+https://single-spa.js.org/
+
+git monorepo
+https://medium.com/digitalproductsdev/arquitetura-bff-back-end-for-front-end-13e2cbfbcda2
+
+Alan Kay
+
+https://www.ted.com/talks/alan_kay_a_powerful_idea_about_ideas?language=pt
+
+getters
+
+
