@@ -38,5 +38,15 @@ https://github.com/ErickWendel/5-new-features-for-js-arrays-es2023/blob/main/rec
 
 https://medium.com/version-1/es2023-whats-new-plus-a-sneak-peek-into-es2024-b2fe487a6c23#:~:text=This%20is%20where%20ES2023%20comes,the%20unnecessary%20workarounds%20described%20above
 
+Perfomance 
+saber indexar bem, faz ela relevante - tráfego pagp é sobre isso, indexar o cookie de vendedor em determinado site, pra poder garantir as vendas
+
+
+agregação e composição de objetos
+
+uso de interface
+
+modularizar
+desing patterns
 
 
