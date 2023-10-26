@@ -55,3 +55,35 @@ https://www.ted.com/talks/alan_kay_a_powerful_idea_about_ideas?language=pt
 getters
 
 
+https://www.infoq.com/br/news/2014/12/expressjs-burned-netflix/
+
+http://restify.com/
+
+https://nestjs.com/
+
+https://jquery.com/
+
+https://www.electronjs.org/pt/
+
+[21:36, 25/10/2023] Julia Labre: https://tailwindcss.com/docs/installation
+[21:36, 25/10/2023] Julia Labre: https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css
+[21:36, 25/10/2023] Julia Labre: https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox
+
+
+Sobre o projeto com via cep:
+Fabricio Moreno21:50
+pq o status é igualado à 200 ali no status?
+Ícaro Santos21:51
+É por causa dos status do http.
+Fabricio Moreno21:51
+200 acaba sendo um valor padrão então?
+Ícaro Santos21:51
+Tem as "classes" numéricas que indicam se foi sucesso, que é 200, erro do cliente, 400, servidor 500, etc.
+Fabricio Moreno21:51
+ahh sim, valeu
+Ícaro Santos21:52
+Aí dentro de cada "classe", tem os números específicos, como o mais conhecido de todos, que é o 404 not found.
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+O query selector permite que possa encontrar/pegar um nó do DOM através dos tipos de seletores usados no próprio CSS. Então tem .classe, #id etc.
+
