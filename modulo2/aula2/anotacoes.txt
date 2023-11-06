@@ -1,0 +1,7 @@
+Ilnara Ackermann19:33
+Atributo éum informações
+Método é uma ação (função)
+Ícaro Santos19:33
+O que você tem e é, seria atributos/propriedades, e o que você "faz", são os métodos.
+
+https://www.youtube.com/watch?v=ppDsxbUNtNQ
