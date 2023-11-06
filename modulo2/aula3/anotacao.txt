@@ -1,0 +1,48 @@
+Revisão aula 1 e 2
+classes
+-> estrutura
+
+Toda Classe tem atributos e métodos
+
+Atributos = caracteristiticas, dados relacionados ao objeto, estado
+(atributo = substantivo - dá as caracteristicas e definições)
+
+métodos = funcionamento da classe, ações, comportamentos
+(método = verbos - ações, a nomenclatura tbm é desse jeito ex.: cadastrar, excluir (infinitivo) )
+
+objeto = instância, 
+
+aula 3
+
+Construtor
+Inicializa as propriedades
+é um método especial
+
+
+encapsulamento - Proteção, envolver, ocultar detalhes internos do funcionamento
+
+O encapsular vem de você "isolar" de certa forma, as propriedades e métodos.
+Você sabe usar, mas você não sabe como é o funcionamento.
+
+Ícaro Santos20:15
+Se o objeto for passar por vários devs, isso serve sim.
+Porque você "escolhe" o que outras pessoas terão acesso.
+Ícaro Santos20:16
+Eu crio o objeto motor de carro, ele tem todo um funcionamento de enviar gasolina para entrar em combustão, para daí acionar algo que vai gerar força.
+Depois disso, eu envio isso para a galera que coloca o motor no carro como um todo e testa.
+Ícaro Santos20:17
+Ele só tem acesso aquilo que eu deixar como público, de forma a, mesmo tendo o motor na mão, ele é de certa forma, impedido de usar as outras coisas.
+Um exemplo legal para a gente é uma API.
+Você sabe todo o código da API? Como ela funciona, etc?
+Não!
+Ícaro Santos20:18
+Mas você pode usar ela através dos métodos disponibilizados para você.
+Acredito que para quem conhece APIs, isso seja um exemplo bem claro.
+Ilnara Ackermann20:19
+de fato!
+Ícaro Santos20:20
+No exemplo do Rafael, teria um método público para chamar um método privado para alterar o saldo.
+Método depósito recebe o valor, aciona o método privado de alterar saldo e assim faz a alteração.
+Ele está mostrando, nem precisava escrever. hahahahaha
+Ícaro Santos20:21
+Para poder mostrar o saldo após as alterações.
