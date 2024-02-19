@@ -1,0 +1,20 @@
+PASSO A PASSO PARA O FUNCIONAMENTO DO EXPRESS
+- Criar a pasta ou repositório
+	- express nome-do-projeto
+		-cd nome-do-projeto
+			- npm install
+			- npm install express ejs (se quiser terocar o Jade pelo ejs)
+			- npm install dotenv
+			- npm i express-session cookie-parser
+ 			- npm i sequelize (gerenciador de banco de dados)
+			- npm run start
+
+Agora é configurar de acordo com a preferencia.
+Segui usando o jade, pois estou com dificuldade de mudar pra ejs
+
+
+ (pra usar o generator com o ejs direto)
+ - npx express -v ejs
+	- npm install
+	- npm install dotenv express-session cookie-parser sequelize mysql2(ou o banco de dados a escolha)
+	- npm run start

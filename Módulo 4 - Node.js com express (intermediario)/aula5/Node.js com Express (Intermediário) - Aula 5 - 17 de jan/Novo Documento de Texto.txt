@@ -1,0 +1,8 @@
+https://www.sqlite.org/download.html
+https://www.sqlitetutorial.net/download-install-sqlite/
+https://www.youtube.com/watch?v=Nx1ExwqUcrs
+
+
+Model
+controller
+schemas 

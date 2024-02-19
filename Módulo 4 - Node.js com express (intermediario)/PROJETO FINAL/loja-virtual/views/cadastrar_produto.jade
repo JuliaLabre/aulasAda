@@ -1,0 +1,26 @@
+extends layout
+
+block content
+  .container.mt-5
+    h2 Cadastro de Produto
+    form(action="/inserir_produto", method="post")
+      // Campos do formulário
+      input(type="hidden", class="form-control", id="user_id", name="nome", required)
+      .mb-3
+        label(for="nome", class="form-label") Nome do Produto
+        input(type="text", class="form-control", id="nome", name="nome", required)
+      .mb-3
+        label(for="categoria", class="form-label") Categoria
+        input(type="text", class="form-control", id="categoria", name="categoria", required)
+      .mb-3
+        label(for="preco", class="form-label") Preço
+        input(type="number", step="0.01", class="form-control", id="preco", name="preco", required)
+      .mb-3
+        label(for="descricao", class="form-label") Descrição
+        textarea(class="form-control", id="descricao", name="descricao", rows="3", required)
+      .mb-3
+        label(for="url_da_imagem", class="form-label") URL da Imagem
+        input(type="text", class="form-control", id="url_da_imagem", name="url_da_imagem", required)
+
+      // Botão de envio
+      button.btn.btn-primary(type="submit") Cadastrar Produto

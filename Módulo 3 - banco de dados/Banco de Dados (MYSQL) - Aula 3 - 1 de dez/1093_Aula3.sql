@@ -1,0 +1,33 @@
+-- CREATE DATABASE aula;
+
+CREATE DATABASE IF NOT EXISTS aula;
+
+create database if not exists aula;
+
+USE aula;
+
+CREATE DATABASE IF NOT EXISTS aula2;
+
+-- DROP DATABASE aulan;
+
+DROP DATABASE IF EXISTS aulan;
+
+-- DROP DATABASE IF EXISTS aula;
+
+USE aula;
+
+CREATE TABLE IF NOT EXISTS aluno (
+	id SMALLINT UNSIGNED PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    data_nascimento DATE NOT NULL,
+    cpf BIGINT NULL,
+    endereco VARCHAR(100) NULL,
+    telefones VARCHAR(100) NULL);
+    
+    
+CREATE TABLE IF NOT EXISTS uf (
+	id TINYINT UNSIGNED PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(30) NOT NULL,
+    sigla CHAR(2) NOT NULL
+)
+    

@@ -1,0 +1,23 @@
+
+Vamos criar um cenário fictício envolvendo um sistema de biblioteca com as seguintes entidades:
+
+Livro
+Atributos: id_livro (PK), titulo, autor, ano_publicacao
+
+Cliente
+Atributos: id_cliente (PK), nome, email
+
+Empréstimo
+Atributos: id_emprestimo (PK), id_livro (FK), id_cliente (FK), data_emprestimo, data_devolucao, status
+
+Realize inserção de dados, update, delete e consultas simples 
+
+Avaliem os tipos de dados mais adequados para cada campo.
+
+
+-- Comandos de consulta simples como SELECT mostrando todas as colunas, colunas específicas, apelidos em colunas, cláusula WHERE utilizando operadores como IN, LIKE, <, >, <=, >=, =.
+
+
+Entrega via Email
+
+Assunto: BE1093 - Exercício Aula 4 - <SQUAD>

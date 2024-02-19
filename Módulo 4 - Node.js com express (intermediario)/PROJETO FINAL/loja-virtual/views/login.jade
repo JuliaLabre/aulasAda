@@ -1,0 +1,14 @@
+extends layout
+
+block content
+   h2 Cadastro de Clientes
+    form(action="/log", method="post")
+      .mb-3
+        label(for="preco", class="form-label") Email
+        input(type="email", step="0.01", class="form-control", id="email", name="email", required)
+      .mb-3
+        label(for="categoria", class="form-label") Senha
+        input(type="password", class="form-control", id="senha", name="senha", required)
+      .mb-3
+      // Botão de envio
+      button.btn.btn-primary(type="submit") Fazer login
