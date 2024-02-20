@@ -1,0 +1,12 @@
+import { Express, RequestHandler, IRoute, IRouterHandler, Router } from 'express';
+import { JsonObject } from 'swagger-ui-express';
+
+export interface GenericServerInterface {
+ 
+      
+        setGlobalMiddleware(middlewares: Array<any>): void;
+        setSwagger(path: string, swaggerUi: any, swaggerFile: JsonObject): void;
+        setRouter(router: Router): void;
+        startServer(): void;
+    
+}
