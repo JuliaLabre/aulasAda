@@ -9,3 +9,5 @@ https://www.notion.so/Shared-682e389d504a4c19a94d91517a688aa0?pvs=4
 https://odd-turret-191.notion.site/Shared-682e389d504a4c19a94d91517a688aa0?pvs=25
 
 https://www.devmedia.com.br/interfaces-x-classes-abstratas/13337
+
+https://gitlab.com/aulas-pablo/be-ts-006-programa-o-web-iii/aula-07
